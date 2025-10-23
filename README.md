@@ -6,7 +6,7 @@ A modern, responsive portfolio website showcasing Ahmed Samy Hekal's skills and 
 
 - **Responsive Design**: Fully responsive layout that works on all devices
 - **Modern UI/UX**: Clean, professional design with smooth animations
-- **Interactive Elements**: 
+- **Interactive Elements**:
   - Smooth scrolling navigation
   - Animated timeline for experience
   - Interactive skill tags
@@ -71,7 +71,3 @@ To customize this portfolio for another person:
 - **Phone**: +20 109 923 5038
 - **LinkedIn**: [ahmedhekal021](https://www.linkedin.com/in/ahmedhekal021)
 - **GitHub**: [Ahmed-Hekal-01](https://github.com/Ahmed-Hekal-01)
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
